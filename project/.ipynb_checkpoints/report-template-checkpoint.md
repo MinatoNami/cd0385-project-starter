@@ -31,11 +31,11 @@ I would do more research on the given dataset and spend more time researching on
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-![model_training_score.png](model_training_score.png)
+![model_train_score.png](img/model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-![model_testing_score.png](model_testing_score.png)
+![model_test_score.png](img/model_test_score.png)
 
 ## Summary
 In summary, I was able to apply the concepts that was taught to me across the various lectures, and better understand the overall process of a ML pipeline. I was also taught on the usage of various tools on AWS to speed up development of new models.
